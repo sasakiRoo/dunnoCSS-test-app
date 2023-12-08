@@ -1,0 +1,53 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --primary: rgb(117, 117, 255);
+    --secondary: rgb(7, 83, 170);
+    --neutral: rgb(253, 209, 209);
+}
+
+/* colors */
+
+.bg-cl-primary {
+    background-color: var(--primary)
+}
+.bg-cl-secondary {
+    background-color: var(--secondary);
+}
+.bg-cl-neutral {
+    background-color: var(--neutral)
+}
+
+
+/* buttons */
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.bt-large {
+    width: 75px;
+}
+
+/* border radius */
+.bd-rad-xs {
+    border-radius: 5px;
+}
+.bd-rad-s {
+    border-radius: 8.5px;
+}
+
+.bd-rad-primary {
+    border-radius: 10px;
+}
+
+.bd-rad-secondary {
+    border-radius: 10px;
+}
+.bd-rad-tertiary {
+    border-radius: 20px;
+}

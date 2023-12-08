@@ -1,0 +1,22 @@
+{
+  "name": "dunnocss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sasakiRoo/dunnoCSS.git"
+  },
+  "keywords": [
+    "dunnoCSS"
+  ],
+  "author": "Sasakiroo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasakiRoo/dunnoCSS/issues"
+  },
+  "homepage": "https://github.com/sasakiRoo/dunnoCSS#readme"
+}
